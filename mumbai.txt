@@ -1,0 +1,17 @@
+# Mumbai Project
+
+Welcome to the Mumbai Project.
+
+## Description
+This repository is created to practice Git and GitHub version control.
+
+## Contents
+- Git basics
+- Branching
+- Merging
+- Commit history
+- Push and Pull
+- DevOps practice
+
+## Author
+Sibaram Panigrahi
