@@ -59,7 +59,7 @@ The purpose of this project is to improve practical knowledge of version control
 ## Author
 
 **Sibaram Panigrahi**
-
+**Sibani Panda**
 Application Support Engineer | Linux | AWS | Git | Docker | Kubernetes | Jenkins | Shell Scripting
 
 ## Thank You
