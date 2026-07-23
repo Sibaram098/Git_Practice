@@ -1,0 +1,68 @@
+# Singapore Project
+
+Welcome to the **Singapore Project**.
+
+This repository is created to practice **Git**, **GitHub**, and **DevOps** concepts through hands-on exercises.
+
+## Description
+
+The purpose of this project is to improve practical knowledge of version control and DevOps by performing real-world Git operations.
+
+## Contents
+
+* Git Basics
+* Git Branching
+* Git Merge
+* Git Rebase
+* Git Stash
+* Git Reset
+* Git Revert
+* Git Cherry-pick
+* Git Tags
+* Git Remote Repository
+* GitHub Collaboration
+* Linux Commands
+* Shell Scripting
+* Docker Basics
+* Kubernetes Basics
+* AWS Fundamentals
+* Jenkins CI/CD
+* GitHub Actions
+
+## Objectives
+
+* Learn Git fundamentals.
+* Practice daily Git commands.
+* Understand branching strategies.
+* Resolve merge conflicts.
+* Build DevOps skills.
+* Maintain clean commit history.
+* Prepare for DevOps interviews.
+
+## Best Practices
+
+* Commit frequently with meaningful messages.
+* Create feature branches for new features.
+* Pull the latest changes before pushing.
+* Review changes using `git diff`.
+* Never commit sensitive information such as passwords or API keys.
+
+## Future Enhancements
+
+* Add Docker projects.
+* Add Kubernetes manifests.
+* Add Terraform examples.
+* Add AWS deployment examples.
+* Add CI/CD pipelines.
+* Add monitoring and logging projects.
+
+## Author
+
+**Sibaram Panigrahi**
+
+Application Support Engineer | Linux | AWS | Git | Docker | Kubernetes | Jenkins | Shell Scripting
+
+## Thank You
+
+Thank you for visiting this repository. Happy Learning and Happy Coding!
+
