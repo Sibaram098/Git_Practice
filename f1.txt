@@ -1,0 +1,67 @@
+DevOps Learning Journey
+
+Name: Sibaram Panigrahi
+Goal: Become a DevOps Engineer
+
+Topics:
+- Linux
+- Git & GitHub
+- Shell Scripting
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- CI/CD
+
+Practice Every Day.
+Never Stop Learning.
+
+Git Practice Repository
+
+This file is created to practice Git commands.
+
+Commands Practiced:
+git init
+git status
+git add .
+git commit -m "First commit"
+git branch
+git checkout
+git merge
+git pull
+git push
+
+Practice makes perfect.
+Linux Commands
+
+pwd
+ls -la
+cd
+mkdir
+touch
+cp
+mv
+rm
+find
+grep
+awk
+sed
+chmod
+chown
+ps
+top
+df -h
+free -h
+systemctl
+
+Linux is the foundation of DevOps.
+
+Hello World!
+
+This is my first file for Git practice.
+
+Name: Sibaram Panigrahi
+Date: 24 July 2026
+
+Learning Git and GitHub step by step.
