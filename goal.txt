@@ -1,0 +1,27 @@
+===============================
+MY CAREER GOALS
+===============================
+
+Current Goal:
+Become a DevOps Engineer.
+
+Skills to Master:
+- Linux
+- Git & GitHub
+- Shell Scripting
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- CI/CD
+- Monitoring
+
+Daily Goal:
+- Study 1-2 hours
+- Practice hands-on
+- Push code to GitHub
+- Learn something new every day
+
+Long-Term Goal:
+Get a high-paying DevOps job and continue growing in cloud technologies.
