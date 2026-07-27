@@ -1,0 +1,19 @@
+===============================
+DAILY ROUTINE
+===============================
+
+7:00 AM - Wake up
+7:15 AM - Workout
+8:15 AM - Breakfast
+8:45 AM - DevOps Study
+10:00 AM - Practice
+Office Work
+Night:
+- Revise notes
+- GitHub commit
+- Prepare for next day
+
+Rules:
+- No excuses.
+- Stay consistent.
+- Sleep 7-8 hours.
